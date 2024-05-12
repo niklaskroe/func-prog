@@ -1,4 +1,4 @@
-package blatt02.Aufgabe3;
+package lambda.Aufgabe3;
 
 import java.util.Arrays;
 import java.util.List;

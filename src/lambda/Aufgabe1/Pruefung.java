@@ -1,4 +1,4 @@
-package blatt02.Aufgabe1;
+package lambda.Aufgabe1;
 
 @FunctionalInterface
 public interface Pruefung {

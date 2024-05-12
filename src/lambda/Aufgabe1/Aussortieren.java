@@ -1,4 +1,4 @@
-package blatt02.Aufgabe1;
+package lambda.Aufgabe1;
 
 public class Aussortieren {
 	public static int[] reduziertesArray (int[] ia, Pruefung prfg) {

@@ -1,4 +1,4 @@
-package blatt02.Aufgabe2;
+package lambda.Aufgabe2;
 
 public class WortFinder {
 	public static String erstesWort(String[] str, Bedingung bedingung) {
